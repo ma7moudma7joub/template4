@@ -1,0 +1,56 @@
+.p-20 {
+	padding: 20px;
+}
+.pt-20 {
+	padding-top:20px;
+}
+.pt-0 {
+	padding-top: 0;
+}
+.p-10 {
+	padding: 10px;
+}
+.m-20 {
+	margin: 20px;
+}
+.mt-20 {
+	margin-top: 20px;
+}
+.mt-0 {
+	margin-top: 0;
+}
+.d-flex {
+	display: flex;
+}
+.d-grid {
+	display: grid;
+}
+.flex-col {
+	flex-direction: column;
+}
+.bg-white {
+	background-color: white;
+}
+@media (max-width:767px) {
+	.hide-mobile {
+		display: none;
+	}
+}
+.active {
+	background-color:#f6f6f6 ;
+}
+.align-c {
+	align-items: center;
+}
+.fs-14 {
+	font-size: 14px;
+}
+.rad-6 {
+	border-radius:6px;
+}
+.txtalign {
+	text-align: center;
+}
+.rad-50 {
+	border-radius:50%;
+}
